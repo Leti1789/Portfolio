@@ -40,8 +40,8 @@
 
 ## Despliegue
 
-Este proyecto está desplegado en **Vercel**. Puedes acceder a la versión en vivo aquí:  
-👉 [https://tu-portfolio.vercel.app](https://portfolio-pi-five-78.vercel.app/)
+Este proyecto está desplegado en **Vercel**. Puedes acceder a la versión en vivo [aquí](https://leticiadimotta.vercel.app/)
+
 
 ---
 
