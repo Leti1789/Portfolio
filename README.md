@@ -4,8 +4,7 @@
 
 ## Capturas de pantalla
 
-![Captura de pantalla 1](./screenshots/screenshot1.png)  
-*Descripción de la captura de pantalla.*
+
 
 <div align="center">
   <img src="./screenshots/hero.png" alt="Descripción de la imagen" width="600"/>
