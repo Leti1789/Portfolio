@@ -40,7 +40,7 @@
 
 ## Despliegue
 
-Este proyecto está desplegado en **Vercel**. Puedes acceder a la versión en vivo [aquí](https://leticiadimotta.vercel.app/)
+- Este proyecto está desplegado en **Vercel**. Puedes acceder a la versión en vivo [aquí](https://leticiadimotta.vercel.app/)
 ---
 
 ## Autor
