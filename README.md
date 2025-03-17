@@ -2,12 +2,8 @@
 
 ¡Bienvenido a mi portafolio personal! Este proyecto es una muestra de mis habilidades como desarrollador front-end, construido con **React** y **CSS Modules**. Aquí encontrarás información sobre mí, mis proyectos, experiencia y cómo contactarme.
 
-## Capturas de pantalla
-
-
-
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6f79cdff-573b-42ab-aee6-8a586927ee01" alt="Descripción de la imagen" width="600"/>
+  <img src="https://github.com/user-attachments/assets/6f79cdff-573b-42ab-aee6-8a586927ee01" alt="Descripción de la imagen" width="800"/>
 </div>
 
 ---
