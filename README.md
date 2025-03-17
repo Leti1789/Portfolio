@@ -7,8 +7,9 @@
 ![Captura de pantalla 1](./screenshots/screenshot1.png)  
 *Descripción de la captura de pantalla.*
 
-![Captura de pantalla 2](./screenshots/screenshot2.png)  
-*Descripción de la captura de pantalla.*
+<div align="center">
+  <img src="./screenshots/hero.png" alt="Descripción de la imagen" width="600"/>
+</div>
 
 ---
 
@@ -42,10 +43,17 @@
 
 ---
 
-## Cómo ejecutar el proyecto localmente
+## Despliegue
 
-Sigue estos pasos para clonar y ejecutar el proyecto en tu máquina local:
+Este proyecto está desplegado en **Vercel**. Puedes acceder a la versión en vivo aquí:  
+👉 [https://tu-portfolio.vercel.app](https://portfolio-pi-five-78.vercel.app/)
 
-1. **Clona el repositorio**:
-   ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+---
+
+## Autor
+
+- **Nombre**: Leticia Di Motta
+- **GitHub**: [Leti1789](https://github.com/Leti1789)
+- **LinkedIn**: [leticiadimotta](https://www.linkedin.com/in/leticiadimotta/)
+- **Email**: leticia.dimotta@gmail.com
+
