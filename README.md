@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img src="./screenshots/hero.png" alt="Descripción de la imagen" width="600"/>
+  <img src="https://github.com/user-attachments/assets/6f79cdff-573b-42ab-aee6-8a586927ee01" alt="Descripción de la imagen" width="600"/>
 </div>
 
 ---
