@@ -45,7 +45,7 @@
 
 ## Autor
 
-- **Nombre**: Leticia Di Motta
+- **Nombre**: Leticia Dimotta
 - **GitHub**: [Leti1789](https://github.com/Leti1789)
 - **LinkedIn**: [leticiadimotta](https://www.linkedin.com/in/leticiadimotta/)
 - **Email**: leticia.dimotta@gmail.com
